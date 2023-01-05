@@ -1,5 +1,5 @@
 {
-	"ru" : [
+	"ru" : {
 		"Q1": {
 			"title": "В каком году был создан язык программирования Python?",
 			"varinats": [
@@ -30,8 +30,8 @@
 				{"id": 5, "isTrue": false, "title": "В коде нет ошибок"},
 			]
 		}
-	],
-  "en" : [
+	},
+  "en" : {
 		"Q1": {
 			"title": "What year was the Python programming language created?",
 			"varinats": [
@@ -62,5 +62,5 @@
 				{"id": 5, "isTrue": false, "title": "There are no errors in the code"},
 			]
 		}
-	]
+  	}
 }
