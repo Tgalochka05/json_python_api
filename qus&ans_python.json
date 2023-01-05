@@ -21,12 +21,12 @@
 			}
 		},
 		"Q3": {
-			"title": "Костя написал программу на языке Python. Код программы представлен ниже: a = 12 if a = 12: print(“Yes”) else: print(“No”) Помогите Косте найти и исправить ошибку в коде. Для этого выберите вариант ответа, который содержит исправленный код.",
+			"title": "Костя написал программу на языке Python. Код программы представлен ниже: a = 12 if a = 12: print('Yes') else: print('No') Помогите Косте найти и исправить ошибку в коде. Для этого выберите вариант ответа, который содержит исправленный код.",
 			"varinats": {
 				{"id": 1, "isTrue": false, "title": "print('Hi')"},
-				{"id": 2, "isTrue": true, "title": "if a == 12: print(“Yes”)"},
+				{"id": 2, "isTrue": true, "title": "if a == 12: print('Yes')"},
 				{"id": 3, "isTrue": false, "title": "a = 10"},
-				{"id": 4, "isTrue": false, "title": "ele: print(“I! GuGlO”)"},
+				{"id": 4, "isTrue": false, "title": "ele: print('I! GuGlO')"},
 				{"id": 5, "isTrue": false, "title": "В коде нет ошибок"},
 			}
 		}
@@ -53,12 +53,12 @@
 			}
 		},
 		"Q3": {
-			"title": "Kostya wrote a program in Python. The program code is shown below: a = 12 if a = 12: print(“Yes”) else: print(“No”) Help Kostya find and fix a bug in the code. To do this, select the answer option that contains the corrected code.",
+			"title": "Kostya wrote a program in Python. The program code is shown below: a = 12 if a = 12: print('Yes') else: print('No') Help Kostya find and fix a bug in the code. To do this, select the answer option that contains the corrected code.",
 			"varinats": {
 				{"id": 1, "isTrue": false, "title": "print('Hi')"},
-				{"id": 2, "isTrue": true, "title": "if a == 12: print(“Yes”)"},
+				{"id": 2, "isTrue": true, "title": "if a == 12: print('Yes')"},
 				{"id": 3, "isTrue": false, "title": "a = 10"},
-				{"id": 4, "isTrue": false, "title": "ele: print(“I! GuGlO”)"},
+				{"id": 4, "isTrue": false, "title": "ele: print('I! GuGlO')"},
 				{"id": 5, "isTrue": false, "title": "There are no errors in the code"},
 			}
 		}
