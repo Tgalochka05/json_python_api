@@ -1,0 +1,66 @@
+{
+	"ru" : [
+		"Q1": {
+			"title": "В каком году был создан язык программирования Python?",
+			"varinats": [
+				{"id": 1, "isTrue": false, "title": "1978"},
+				{"id": 2, "isTrue": false, "title": "1999"},
+				{"id": 3, "isTrue": true, "title": "1991"},
+				{"id": 4, "isTrue": false, "title": "1945"},
+				{"id": 5, "isTrue": false, "title": "2002"},
+			]
+		},
+		"Q2": {
+			"title": "Какой язык программирования чаще всего рекомендуют изучать для новичков?",
+			"varinats": [
+				{"id": 1, "isTrue": false, "title": "C++"},
+				{"id": 2, "isTrue": false, "title": "Swift"},
+				{"id": 3, "isTrue": false, "title": "1C"},
+				{"id": 4, "isTrue": true, "title": "Python"},
+				{"id": 5, "isTrue": false, "title": "Go"},
+			]
+		},
+		"Q3": {
+			"title": "Костя написал программу на языке Python. Код программы представлен ниже: a = 12 if a = 12: print(“Yes”) else: print(“No”) Помогите Косте найти и исправить ошибку в коде. Для этого выберите вариант ответа, который содержит исправленный код.",
+			"varinats": [
+				{"id": 1, "isTrue": false, "title": "print('Hi')"},
+				{"id": 2, "isTrue": true, "title": "if a == 12: print(“Yes”)"},
+				{"id": 3, "isTrue": false, "title": "a = 10"},
+				{"id": 4, "isTrue": false, "title": "ele: print(“I! GuGlO”)"},
+				{"id": 5, "isTrue": false, "title": "В коде нет ошибок"},
+			]
+		}
+	],
+  "en" : [
+		"Q1": {
+			"title": "What year was the Python programming language created?",
+			"varinats": [
+				{"id": 1, "isTrue": false, "title": "1978"},
+				{"id": 2, "isTrue": false, "title": "1999"},
+				{"id": 3, "isTrue": true, "title": "1991"},
+				{"id": 4, "isTrue": false, "title": "1945"},
+				{"id": 5, "isTrue": false, "title": "2002"},
+			]
+		},
+		"Q2": {
+			"title": "What is the most recommended programming language for beginners?",
+			"varinats": [
+				{"id": 1, "isTrue": false, "title": "C++"},
+				{"id": 2, "isTrue": false, "title": "Swift"},
+				{"id": 3, "isTrue": false, "title": "1C"},
+				{"id": 4, "isTrue": true, "title": "Python"},
+				{"id": 5, "isTrue": false, "title": "Go"},
+			]
+		},
+		"Q3": {
+			"title": "Kostya wrote a program in Python. The program code is shown below: a = 12 if a = 12: print(“Yes”) else: print(“No”) Help Kostya find and fix a bug in the code. To do this, select the answer option that contains the corrected code.",
+			"varinats": [
+				{"id": 1, "isTrue": false, "title": "print('Hi')"},
+				{"id": 2, "isTrue": true, "title": "if a == 12: print(“Yes”)"},
+				{"id": 3, "isTrue": false, "title": "a = 10"},
+				{"id": 4, "isTrue": false, "title": "ele: print(“I! GuGlO”)"},
+				{"id": 5, "isTrue": false, "title": "There are no errors in the code"},
+			]
+		}
+	]
+}
