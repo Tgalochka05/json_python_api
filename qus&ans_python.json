@@ -1,15 +1,10 @@
 {
 	"ru" : {
-		"1": {
+	 "1": {
 			"id": 1,
 			"title": "2+2=",
-			"variants": [
-				{"title":"5", "flag": false},
-				{"title":"6", "flag": false},
-				{"title":"4", "flag": true},
-				{"title":"2", "flag": false},
-				{"title":"1", "flag": false}
-			],
+			"variants": ["5", "4", "3", "2", "1"],
+			"flags": [false, true, false, false, false]
 		}
 	}
 }
