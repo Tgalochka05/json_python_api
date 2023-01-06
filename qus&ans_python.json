@@ -1,10 +1,25 @@
 {
 	"ru" : {
-	 "1": {
+	 	"1": {
 			"id": 1,
-			"title": "2+2=",
-			"variants": ["5", "4", "3", "2", "1"],
-			"flags": [false, true, false, false, false]
-		}
+			"title": "В каком году был создан язык программирования Python?",
+			"photo": "None",
+			"variants": ["1978", "1999", "1991", "1945", "2002"],
+			"flags": [false, false, true, false, false]
+		},
+		"2": {
+ 			"id": 2,
+ 			"title": "Какой язык программирования чаще всего рекомендуют изучать для новичков?",
+			"photo": "None",
+ 			"variants": ["C++", "Swift", "1C", "Python", "Go"],
+ 			"flags": [false, false, false, true, false]
+ 		},
+		"3": {
+ 			"id": 3,
+ 			"title": "Костя написал программу на языке Python. Код программы представлен ниже.Помогите Косте найти и исправить ошибку в коде. Для этого выберите вариант ответа, который содержит исправленный код.",
+			"photo": "Have",
+ 			"variants": ["print('Hi')", "if a == 12: print('Yes')", "a = 10", "ele: print('I! GuGlO')", "В коде нет ошибок"],
+ 			"flags": [false, true, false, false, false]
+ 		}
 	}
 }
